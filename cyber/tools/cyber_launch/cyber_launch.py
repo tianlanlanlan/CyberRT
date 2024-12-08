@@ -491,6 +491,7 @@ def main():
     params = parser.parse_args(sys.argv[1:])
 
     command = sys.argv[1]
+    print(f"command = {command}")
     if command == 'start':
         start(params.file)
     elif command == 'stop':

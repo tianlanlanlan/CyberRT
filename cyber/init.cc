@@ -31,6 +31,7 @@
 #include "cyber/binary.h"
 #include "cyber/common/file.h"
 #include "cyber/common/global_data.h"
+#include "cyber/common/log.h"
 #include "cyber/data/data_dispatcher.h"
 #include "cyber/logger/async_logger.h"
 #include "cyber/node/node.h"

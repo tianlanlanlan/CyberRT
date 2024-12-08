@@ -20,7 +20,7 @@
 
 ```shell
 sudo apt update
-sudo apt install -y uuid-dev libncurses5-dev python3-dev python3-pip
+sudo apt install -y uuid-dev libncurses5-dev python3-dev python3-pip pkg-config
 python3 -m pip install protobuf==3.14.0
 ```
 
